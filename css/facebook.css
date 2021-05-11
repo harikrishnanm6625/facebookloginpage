@@ -1,0 +1,128 @@
+body{
+    background-color:#f0e6ff ;
+}
+img{
+   width:301px;
+   height:106px;
+   position: absolute;
+   top:195px;
+   left:140px;   
+}
+.container2{
+   background-color: white;
+   width: 396px;
+   height: 349px;
+   position: relative;
+   top:20px;
+   margin-left:65%; 
+   border-radius: 8px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+.container1{
+   background-color: white;
+   width: 100%;
+   height: 200px;
+   position:absolute;
+   margin-top: 31%;
+}
+button{
+    width: 364px;
+    height: 48px;
+    position: relative;
+    left:16px ;
+}
+a{
+    position: relative;
+    left: 117px;
+}
+.mbutton{
+    width: 220px;
+    left: 85px;
+    top: 40px;
+    background-color: #42b72a;
+}
+.plusbutton{
+    width: 30px;
+    height:25px;
+    left: 120px;
+    position: relative;
+    top: 4px;
+   
+}
+h2{
+
+   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+   font-size: 28px;
+   width: 500px;
+   position: absolute;
+   margin-top: 300px;
+   margin-left: 170px;
+}
+.createpage{
+    position: absolute;
+    margin-left: 795px;
+    margin-top: 39px;
+}
+h6{
+    position: relative; 
+    bottom: 20px;
+    margin-left: 226px;
+    
+}
+footer{
+    font-size: 12px;
+    color:#999999 ;
+    text-align: start;
+    position: absolute;
+    left: 118px;
+    top: 150px;
+}
+.links{
+    font-size: 12px;
+    color:#385898;
+    text-decoration: none;
+}
+.links1{
+    font-size: 12px;
+    color: #385898;
+    text-decoration: none;
+    top: 20px;
+}
+.line1{
+    width: 887px;
+    left: 117px;
+    height: 1px;
+    background:#dbdbbd;
+    position: relative;
+    margin-top: 104px;
+}
+.line2{
+    height: 1px;
+    width: 370px;
+    background: #dbdbbd;
+    position: relative;
+    left: 13px;
+    top: 17px;
+}
+.email{
+    width: 375px;
+    position: relative;
+    left: 12px;
+    border-radius: 6px;
+}
+.password{
+    width: 375px;
+    position: relative;
+    top:0.5px;
+    left: 12px; 
+    border-radius: 6px;
+}
+.createpagenew{
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top:1px;
+}
+.forgotpassword{
+    text-decoration: none;
+}
